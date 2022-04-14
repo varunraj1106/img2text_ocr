@@ -34,7 +34,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 TITLE         = "Image To Text Converter"
 FRAME_TITLE   = "Image To Text Converter"
 PURPOSE_TITLE = "Convert text within an image into PDF"
-GITHUB_LINK   = "https://github.com/nv-hiep/ML_end2end_projects/tree/main/img2text_ocr"
+GITHUB_LINK   = "https://github.com/varunraj1106/img2text_ocr"
 
 
 # For uploading images
